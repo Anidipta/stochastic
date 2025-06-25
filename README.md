@@ -20,8 +20,8 @@ An intelligent document analysis system powered by Google's Gemini 2.5 Pro API w
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd ai-document-agent
+git clone https://github.com/Anidipta/stochastic.git
+cd stochastic
 
 # Install dependencies
 pip install -r requirements.txt
